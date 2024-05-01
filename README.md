@@ -1,6 +1,6 @@
 ## Crypto frenzy
 
-Deployed app : https://crypto-frenzy-one.vercel.app/
+Deployed app : https://crypto-frenzy-on.vercel.app/
 
 The Crypto frenzy was created using Web 3.0 methodologies, Solidity and Metamask. In this app, user can send crypto coins based on ethereum network in which supported by Metamask.
 
